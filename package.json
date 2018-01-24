@@ -1,0 +1,12 @@
+{
+  "name": "TrendsDocGenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EricZhaoCherryTomato/TrendsDocGenerator.git",
+  "author": "Eric Zhao <eric.ye.zhao@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "google-trends-api": "^4.4.0"
+  }
+}

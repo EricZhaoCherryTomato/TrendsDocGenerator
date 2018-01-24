@@ -1,0 +1,324 @@
+{
+    "default": {
+        "rankedList": [
+            {
+                "rankedKeyword": [
+                    {
+                        "topic": {
+                            "mid": "/m/0663v",
+                            "title": "Pizza",
+                            "type": "Dish"
+                        },
+                        "value": 100,
+                        "formattedValue": "100",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/09cfq",
+                            "title": "Pizza Hut",
+                            "type": "Restaurant company"
+                        },
+                        "value": 28,
+                        "formattedValue": "28",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/03clwm",
+                            "title": "Domino's Pizza",
+                            "type": "Restaurant company"
+                        },
+                        "value": 11,
+                        "formattedValue": "11",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/024gjb",
+                            "title": "Menu",
+                            "type": "Topic"
+                        },
+                        "value": 7,
+                        "formattedValue": "7",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/01x9mn",
+                            "title": "Dough",
+                            "type": "Topic"
+                        },
+                        "value": 3,
+                        "formattedValue": "3",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/035bpb",
+                            "title": "Delivery",
+                            "type": "Topic"
+                        },
+                        "value": 3,
+                        "formattedValue": "3",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/020tvm",
+                            "title": "Papa John's Pizza",
+                            "type": "Restaurant company"
+                        },
+                        "value": 2,
+                        "formattedValue": "2",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/05m1lt",
+                            "title": "Pizza delivery",
+                            "type": "Topic"
+                        },
+                        "value": 2,
+                        "formattedValue": "2",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/029bxz",
+                            "title": "Oven",
+                            "type": "Topic"
+                        },
+                        "value": 1,
+                        "formattedValue": "1",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/05x6fj",
+                            "title": "Little Caesars",
+                            "type": "Restaurant company"
+                        },
+                        "value": 1,
+                        "formattedValue": "1",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/03c6sm",
+                            "title": "PizzaExpress",
+                            "type": "Restaurant company"
+                        },
+                        "value": 1,
+                        "formattedValue": "1",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/021sqj",
+                            "title": "Pizza Pizza",
+                            "type": "Fast food restaurant company"
+                        },
+                        "value": 1,
+                        "formattedValue": "1",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/086qkl",
+                            "title": "Boston Pizza",
+                            "type": "Restaurant company"
+                        },
+                        "value": 1,
+                        "formattedValue": "1",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/04cxwvn",
+                            "title": "Marco's Pizza",
+                            "type": "Restaurant company"
+                        },
+                        "value": 1,
+                        "formattedValue": "1",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/09y2k2",
+                            "title": "Italian cuisine",
+                            "type": "Cuisine"
+                        },
+                        "value": 1,
+                        "formattedValue": "1",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/0cfpdg",
+                            "title": "Cicis",
+                            "type": "Restaurant company"
+                        },
+                        "value": 1,
+                        "formattedValue": "1",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/018dy5",
+                            "title": "Pepperoni",
+                            "type": "Topic"
+                        },
+                        "value": 0,
+                        "formattedValue": "0",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/g/11c3q56pmx",
+                            "title": "Blaze Pizza",
+                            "type": "Restaurant"
+                        },
+                        "value": 0,
+                        "formattedValue": "0",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/015w7p",
+                            "title": "Cauliflower",
+                            "type": "Vegetable"
+                        },
+                        "value": 0,
+                        "formattedValue": "0",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/012ngc5d",
+                            "title": "MOD Pizza",
+                            "type": "Restaurant company"
+                        },
+                        "value": 0,
+                        "formattedValue": "0",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/05w4gd",
+                            "title": "Casey's General Stores",
+                            "type": "Convenience store company"
+                        },
+                        "value": 0,
+                        "formattedValue": "0",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/06pcq",
+                            "title": "Submarine sandwich",
+                            "type": "Topic"
+                        },
+                        "value": 0,
+                        "formattedValue": "0",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/0667s2",
+                            "title": "Papa Murphy's",
+                            "type": "Company"
+                        },
+                        "value": 0,
+                        "formattedValue": "0",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/0hnf2v_",
+                            "title": "Pizza rolls",
+                            "type": "Product line"
+                        },
+                        "value": 0,
+                        "formattedValue": "0",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/0b782ls",
+                            "title": "Happy's Pizza",
+                            "type": "Restaurant"
+                        },
+                        "value": 0,
+                        "formattedValue": "0",
+                        "link": "/"
+                    }
+                ]
+            },
+            {
+                "rankedKeyword": [
+                    {
+                        "topic": {
+                            "mid": "/m/012ngc5d",
+                            "title": "MOD Pizza",
+                            "type": "Restaurant company"
+                        },
+                        "value": 450,
+                        "formattedValue": "+450%",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/g/11c3q56pmx",
+                            "title": "Blaze Pizza",
+                            "type": "Restaurant"
+                        },
+                        "value": 300,
+                        "formattedValue": "+300%",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/04cxwvn",
+                            "title": "Marco's Pizza",
+                            "type": "Restaurant company"
+                        },
+                        "value": 180,
+                        "formattedValue": "+180%",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/05w4gd",
+                            "title": "Casey's General Stores",
+                            "type": "Convenience store company"
+                        },
+                        "value": 160,
+                        "formattedValue": "+160%",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/0cfpdg",
+                            "title": "Cicis",
+                            "type": "Restaurant company"
+                        },
+                        "value": 70,
+                        "formattedValue": "+70%",
+                        "link": "/"
+                    },
+                    {
+                        "topic": {
+                            "mid": "/m/0667s2",
+                            "title": "Papa Murphy's",
+                            "type": "Company"
+                        },
+                        "value": 60,
+                        "formattedValue": "+60%",
+                        "link": "/"
+                    }
+                ]
+            }
+        ]
+    }
+}
